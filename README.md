@@ -148,15 +148,15 @@ http://localhost:5173
 
 🏠 Home Page
 
-![Home Page](./screenshots/home.png)
+![Home Page](./src/screenshots/home.png)
 
 ➕ Add Expense
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./src/screenshots/dashboard.png)
 
 📊 Dashboard
 
-![Add Expense](./screenshots/add-expense.png)
+![Add Expense](./src/screenshots/add-expense.png)
 
 ---
 ## 💡 Tech Highlights
