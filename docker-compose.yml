@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  expense-frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    container_name: expense-snap-container
